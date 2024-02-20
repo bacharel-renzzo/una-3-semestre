@@ -7,7 +7,7 @@
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
 
-As tecnologias que foram utilizadas são as seguintes: 
+- As tecnologias que foram utilizadas são as seguintes: 
 
 <h2 id=Professor> 👨‍🏫 Professores </h2>
 
