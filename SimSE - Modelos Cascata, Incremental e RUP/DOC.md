@@ -1,2 +1,0 @@
-![[TRABALHO SIMSE - WORD.doc]]
-
