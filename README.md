@@ -5,10 +5,6 @@
 - Atividades do 3º semestre da faculdade;
 - Neste repositório, encontram-se as atividades de Governança e serviços de TI e Modelos, Métodos e Técnicas da Engenharia de Software.
 
-<h2 id=tecnologias> 💻 Tecnologias </h2>
-
-- As tecnologias que foram utilizadas são as seguintes: 
-
 <h2 id=Professor> 👨‍🏫 Professores </h2>
 
 - As atividades foram propostas pelos professores das seguintes disciplinas:
