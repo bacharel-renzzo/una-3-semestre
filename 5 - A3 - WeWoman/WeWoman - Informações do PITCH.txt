@@ -1,0 +1,32 @@
+Tema: Um software para dispositivos movéis que visa trazer mais segurança e bem-estar às mulheres e auxiliar no processo de denúncia contra todos os tipos de agressões.
+
+Público-Alvo: Mulheres.
+
+Modelo de Negócio: 
+
+Principais Funcionalidades:
+
+- O sistema permitirá realizar cadastros para a sua utilização, com as seguintes informações:
+
+- Nome de Usuário;
+- Senha de Usuário;
+- Data de Nascimento;
+- E-mail;
+- Telefone;
+- CEP;
+
+- O sistema apresentará uma tela de disfarce para ocultar o verdadeiro foco do aplicativo (denúncia em formato de B.O ou uma chamada de SOS diretamente para a Polícia Militar regional);
+
+- O sistema apresentará uma funcionalidade de realizar uma denúncia (B.O) ou acionar diretamente o 190;
+
+- Ao clicar na opção de "ligar para o 190", o software irá gerar um cronômetro de três segundos para o cancelamento da chamada. 
+
+Caso opte pela denúncia (B.O), o aplicativó gerará um formulário para o preenchimento do caso.
+
+Diferenciais: 
+
+- Tela de disfarce;
+
+- Aplicativo vinculado ao sistema da policia militar da região do usuário;
+
+- Informações atualizadas mensalmente com relação aos indíces de agressões contra as mulheres no Brasil.
